@@ -1,0 +1,14 @@
+C:\Users\1614030\source\repos\metroapi\metroapi\bin\Debug\netcoreapp2.1\metroapi.deps.json
+C:\Users\1614030\source\repos\metroapi\metroapi\bin\Debug\netcoreapp2.1\metroapi.runtimeconfig.json
+C:\Users\1614030\source\repos\metroapi\metroapi\bin\Debug\netcoreapp2.1\metroapi.runtimeconfig.dev.json
+C:\Users\1614030\source\repos\metroapi\metroapi\bin\Debug\netcoreapp2.1\metroapi.dll
+C:\Users\1614030\source\repos\metroapi\metroapi\bin\Debug\netcoreapp2.1\metroapi.pdb
+C:\Users\1614030\source\repos\metroapi\metroapi\obj\Debug\netcoreapp2.1\metroapi.csprojAssemblyReference.cache
+C:\Users\1614030\source\repos\metroapi\metroapi\obj\Debug\netcoreapp2.1\metroapi.csproj.CoreCompileInputs.cache
+C:\Users\1614030\source\repos\metroapi\metroapi\obj\Debug\netcoreapp2.1\metroapi.RazorAssemblyInfo.cache
+C:\Users\1614030\source\repos\metroapi\metroapi\obj\Debug\netcoreapp2.1\metroapi.RazorAssemblyInfo.cs
+C:\Users\1614030\source\repos\metroapi\metroapi\obj\Debug\netcoreapp2.1\metroapi.AssemblyInfoInputs.cache
+C:\Users\1614030\source\repos\metroapi\metroapi\obj\Debug\netcoreapp2.1\metroapi.AssemblyInfo.cs
+C:\Users\1614030\source\repos\metroapi\metroapi\obj\Debug\netcoreapp2.1\metroapi.RazorTargetAssemblyInfo.cache
+C:\Users\1614030\source\repos\metroapi\metroapi\obj\Debug\netcoreapp2.1\metroapi.dll
+C:\Users\1614030\source\repos\metroapi\metroapi\obj\Debug\netcoreapp2.1\metroapi.pdb
